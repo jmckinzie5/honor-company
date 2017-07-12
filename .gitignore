@@ -1,0 +1,24 @@
+# General Build folders
+build/
+output/
+target/
+.gradle/
+classes/
+
+# Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+hs_err_pid*
+.DS_Store
+
+# Local Config
+local-config.ini
+**/src/generated/
